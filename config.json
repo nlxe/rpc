@@ -1,13 +1,13 @@
 {
-    "clientID": "",
-    "largeImage": "",
-    "largeImageText": "",
-    "smallImage": "",
-    "smallImageText": "",
-    "details": "",
-    "state": "",
-    "button1": "",
+    "clientID": "1281599779238842368",
+    "largeImage": "https://th.bing.com/th?id=OIP.7o0jh3z2PHQ3WxiaiFXb_QHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+    "largeImageText": "Minecraft",
+    "smallImage": "https://th.bing.com/th?id=OIP.qQpJE8TdyAjoEvoS4WUdTwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+    "smallImageText": "Small",
+    "details": "Advance player/developer",
+    "state": "UltraGo",
+    "button1": "Website",
     "buttonURL1": "",
-    "button2": "",
+    "button2": "Discord",
     "buttonURL2": ""
 }
